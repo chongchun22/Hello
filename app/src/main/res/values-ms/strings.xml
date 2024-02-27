@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hello</string>
+    <string name="message">Hello, Apa Khabar</string>
+    <string name="my_name">Chong Kah Chun</string>
+    <string name="show">Tunjuk</string>
+    <string name="hide">Sembunyi</string>
+</resources>

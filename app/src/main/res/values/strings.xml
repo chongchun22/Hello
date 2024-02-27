@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello</string>
+    <string name="message">Hello, nice to meet you.</string>
+    <string name="my_name">Chong Kah Chun</string>
+    <string name="show">Show</string>
+    <string name="hide">Hide</string>
+</resources>
